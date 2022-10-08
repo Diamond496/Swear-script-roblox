@@ -78,6 +78,9 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 	local Bypasses = {
 
 		["ass"] = "as{{aieixzvzx:s}}",
+                ["coc"] = "co{{aieixzvzx:c}}",
+                ["fuckk"] = "fu{{aieixzvzx:ckk}}",  
+                ["sucking"] = "su{{aieixzvzx:ckign}}",   
 		["asshole"] = "as{{aieixzvzx:shole}}",
 		["deadass"] = "dead as{{aieixzvzx:s}}",
 		["arse"] = "ar{{aieixzvzx:se}}", --NEW
